@@ -1,5 +1,9 @@
 # PanelScrollControl
-A Winforms Scrollable Panel in the vein of Word 2013.
+A Winforms Scrollable Panel in the vein of Word 2013.  A scrollable panel that could be used in a Word Addin that provides the feel of the scroll buttons in the:
+
+* Document Recovery Pane
+* Navigation Pane
+* Probably other panes I haven't yet cared to discover
 
 When you need to scroll with the feel of a native Office pane, this control provides the functionality.  Designed to be used with existing code, simply pass your pane into the control, and check a few settings.
 ![image](http://i.imgur.com/C2r5nV2.gif)
